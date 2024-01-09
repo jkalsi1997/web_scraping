@@ -37,7 +37,7 @@ Table Scraping:
 * Learn techniques for scraping information from HTML tables.
 **Recurring Elements:
 
-Extract information from recurring elements (e.g., multiple news articles).
+* Extract information from recurring elements (e.g., multiple news articles).
 **Advanced Techniques:
 
-Explore advanced data extraction techniques.
+* Explore advanced data extraction techniques.
